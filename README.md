@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit Sikri</h1>
-<h3 align="center">Final Year CSE @ LNMIIT | Full-Stack Web Developer | Open Source Enthusiast</h3>
+<h3 align="center">Final Year CCE @ LNMIIT | Full-Stack Web Developer | Open Source Enthusiast</h3>
 
 ---
 
